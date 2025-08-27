@@ -271,10 +271,6 @@ docker-compose up -d --scale whatsapp-analyzer=3
 - **Secure Exports**: Downloaded reports contain only processed statistics
 - **User Control**: Full control over data retention and deletion
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Setup
 
 1. Fork the repository
@@ -294,18 +290,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **WhatsApp**: For providing the export functionality
 - **Streamlit**: For the excellent web framework
 - **Pandas & Plotly**: For data analysis and visualization
-- **Open Source Community**: For the amazing tools and libraries
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/whatsapp-chat-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/whatsapp-chat-analyzer/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/whatsapp-chat-analyzer/wiki)
-
-## 🔄 Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for a detailed history of changes.
-
----
-
-**Made with ❤️ by the WhatsApp Chat Analyzer Team** 
